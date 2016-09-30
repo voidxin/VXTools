@@ -19,4 +19,7 @@ If you want to get the formate the current time, You can use this:
   [VXTools DateTimeWithFormateNowString:@"yyyy-MM-dd"]
 ``` 
 more functions waiting for you to visit , thank you 
+
+
+you can view demo from https://github.com/voidxin/VXToolsExamples
   
